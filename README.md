@@ -1,2 +1,2 @@
 # Gest_Contactos
- Agenda de gestão de Contactos telefonicos
+ Sistema de gestão de Contactos telefonicos, para a gestão pessoal personalizada dos seus Conctatos.
